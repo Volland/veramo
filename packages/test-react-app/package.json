@@ -30,7 +30,7 @@
     "stream": "npm:stream-browserify",
     "typeorm": "0.3.6",
     "web-did-resolver": "^2.0.20",
-    "web-vitals": "^2.1.4"
+    "web-vitals": "^3.0.0"
   },
   "scripts": {
     "start": "react-scripts start",
